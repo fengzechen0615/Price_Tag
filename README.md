@@ -9,3 +9,4 @@
 #docker build -t python/tomcat . # . 代表当前目录
 #docker build -t search/tomcat .
 #7,启动服务 #docker run
+##PS compose里面的镜像路径也要改成本地路径，没有的话用sudo建一个
