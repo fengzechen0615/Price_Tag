@@ -1,4 +1,4 @@
-# Price_Tag
+# Price_Tag\n
 #1，安装docker
 #2，在命令行中运行：
 #docker pull tomcat:latest #获取当前云端最新版本的tomcat服务装在docker里
