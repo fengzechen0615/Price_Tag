@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    # ÓÃ±¾µØ¾µÏñĞÅÏ¢Ìæ»» `username/repo:tag`
+    ## ç”¨æœ¬åœ°é•œåƒä¿¡æ¯æ›¿æ¢ `username/repo:tag`
     image: username/repo:tag
     deploy:
       replicas: 5
